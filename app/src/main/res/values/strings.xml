@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">homework</string>
+
+    <string name="get_current">您当前已答%1$d,还剩%2$d道</string>
+
+</resources>
